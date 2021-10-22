@@ -4,7 +4,7 @@
 <div align="center">
 <a href="https://github.com/itzLBaandatube/itzLBaandatube/main/README.md">
 
-<img src="https://visitor-badges.glitch.me?username=itzLBaandatube&repo=itzLBaandatube&style=for-the-badge&contentType=svg&color=424242&logo=github&label=VIEWS" alt="Refresh If You Can't See The Image" title="GitHub Repo Views">
+![Refresh if you can't see this](https://visitor-badges.glitch.me?username=itzLBaandatube&repo=itzLBaandatube&style=for-the-badge&contentType=svg&color=424242&logo=github&label=VIEWS)
 
 </a>
 </div>
