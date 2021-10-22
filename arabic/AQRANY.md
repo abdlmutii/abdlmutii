@@ -1,5 +1,5 @@
 <h2 align="center"><a href="https://github.com/itzLBaandatube/itzLBaandatube">itzLBandatube</a> اهلا انا <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="29px"></h2>
-<h5 align="center">هو مطور مصري يبلغ من العمر ١٦ عام يدير ويمتلك الكثير من المشاريع مثل بوتات الديسكورد ومواقع الويب</h5>
+<h5 align="center">انا مطور مصري يبلغ من العمر ١٦ عام يدير ويمتلك الكثير من المشاريع مثل بوتات الديسكورد ومواقع الويب</h5>
 
 <div align="center">
 <a href="https://github.com/itzLBaandatube/itzLBaandatube/main/README.md">
