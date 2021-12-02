@@ -5,7 +5,7 @@
 <a href="https://github.com/itzLBaandatube/itzLBaandatube/main/README.md">
 
 ![Refresh if you can't see this](https://visitor-badges.glitch.me?username=itzLBaandatube&repo=itzLBaandatube&style=for-the-badge&contentType=svg&color=424242&logo=github&label=VIEWS)
-
+![j](https://github-readme-stats.vercel.app/api?username=itzLBaandatube&anime&show_icons=false&bg_color=11131A&text_color=dddd&custom_title=itzLBandatube's+Status&hide_border=true&count_private=true&title_color=FFD700&icon_color=FFD700)
 </a>
 </div>
 
