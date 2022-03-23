@@ -1,5 +1,5 @@
 <h2 align="center">Hey i'm <a href="https://github.com/itzLBaandatube/itzLBaandatube">itzLBandatube</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="29px"></h2>
-<h5 align="center">itzLBandaatube is Egyptian 16yo developer, collaborate and managing so many projects like Discord Bots and Websites</h5>
+<h5 align="center">I'm seif also known as itzLBandatube, 13yo backend developer,</h5>
 
 <div align="center">
 <a href="https://github.com/itzLBaandatube/itzLBaandatube/main/README.md">
