@@ -1,10 +1,10 @@
-<h2 align="center">Hey i'm <a href="https://github.com/itzLBaandatube/itzLBaandatube">itzLBandatube</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="29px"></h2>
-<h5 align="center">I'm seif also known as itzLBandatube, 13yo backend developer,</h5>
+<h2 align="center">Hey i'm <a href="https://github.com/abdlmutii">Seif Abdlmutii</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="29px"></h2>
+<h5 align="center">I'm seif abdlmutii also known as itzLBandatube, 13yo backend developer,</h5>
 
 <div align="center">
-<a href="https://github.com/itzLBaandatube/itzLBaandatube/main/README.md">
+<a href="https://github.com/abdlmutii/abdlmutii/main/README.md">
 
-![Refresh if you can't see this](https://visitor-badges.glitch.me?username=itzLBaandatube&repo=itzLBaandatube&style=for-the-badge&contentType=svg&color=424242&logo=github&label=VIEWS)
+![Refresh if you can't see this](https://visitor-badges.glitch.me?username=abdlmutii&repo=abdlmutii&style=for-the-badge&contentType=svg&color=424242&logo=github&label=VIEWS)
 </a>
 </div>
 
@@ -64,7 +64,7 @@
 <a href="https://www.facebook.com/gaming.banda.75">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
-<a href="https://twitter.com/itzLBandaatube">
+<a href="https://twitter.com/abdlmutii">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 <a href="https://www.reddit.com/u/Banda_tube?utm_medium=android_app&utm_source=share">
@@ -99,13 +99,13 @@
 <summary align="center"></summary>
 
 ### 🏆 GitHub Stats
-- **itzLBandatube's Stats Card**
+- **Abdlmutii's Stats Card**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzLBaandatube&show_icons=true&bg_color=11131A&text_color=dddd&custom_title=itzLBandatube's+Status&include_all_commits=true&hide_border=true&count_private=true&hide=prs,issues&title_color=FFD700&icon_color=FFD700)
-- **itzLBandatube's Most Used Languages**
+- **Abdlmutii's Most Used Languages**
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=itzLBaandatube&text_color=dddd&bg_color=11131A&icon_color=FFD700&title_color=FFD700&layout=compact&hide_border=true&custom_title=itzLBandatube's+Languages)
-- **itzLBandatube's Trophies**
+- **Abdlmutii's Trophies**
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=itzLBaandatube&no-frame=true&no-bg=true&theme=flat&margin-w=15)
-- **itzLBandatube's Streaks**
+- **Abdlmutii's Streaks**
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=itzLBaandatube&theme=dark&background=11131A&currStreakLabel=white&ring=FFD700&fire=FFD700&hide_border=true)
 </details>
 </details>
