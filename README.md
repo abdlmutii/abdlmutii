@@ -1,5 +1,5 @@
-<h2 align="center">Hey i'm <a href="https://github.com/abdlmutii">Seif Abdlmutii</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="29px"></h2>
-<h5 align="center">I'm seif abdlmutii also known as itzLBandatube, 14yo backend developer,</h5>
+<h2 align="center">Hey i'm <a href="https://github.com/abdlmutii">Seif Abdlmutii</a></h2>
+<h5 align="center">I'm seif abdlmutii, backend developer</h5>
 
 <div align="center">
 <a href="https://github.com/abdlmutii/abdlmutii/main/README.md">
