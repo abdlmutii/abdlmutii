@@ -6,8 +6,6 @@
 <a href="https://discord.com/users/630857610350034980"><img width="26px" alt="Seif#0995" title="Discord" src="https://media.discordapp.net/attachments/726388631664852992/1087036735227179048/871.png"/></a>
 </p>
 
-##
-
 <p align="center">Hi, I'm abdlmutii, a 14-year-old full-stack developer with 3+ years of experience under my belt. <a href="example.com">Read more?</a></p>
 
 ## Tech Stack
