@@ -6,7 +6,7 @@
 <a href="https://discord.com/users/630857610350034980"><img width="26px" alt="Seif#0995" title="Discord" src="https://media.discordapp.net/attachments/726388631664852992/1087036735227179048/871.png"/></a>
 </p>
 
-<p align="center">Hi, I'm abdlmutii, a 14-year-old full-stack developer with 3+ years of experience under my belt. <a href="abdlmutii.repl.co/resume">Read more..</a></p>
+<p align="center">Hi, I'm abdlmutii, a 14-year-old full-stack developer with 3+ years of experience under my belt. <a href="https://abdlmutii.repl.co/resume">Read more..</a></p>
 <details>
 
   <summary><strong>Achieved</strong></summary>
@@ -24,7 +24,7 @@
   - 💻 Fun fact: I code on my phone, but I have a goal to buy a PC in the long term.
 </details>
 
-##### Back-end:
+#### Back-end:
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
 
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react">
  </p>
  
- ##### Front-End:
+ #### Front-End:
   <p align="center">
   <img src="https://img.shields.io/badge/-Tailwind.css-05122A?style=flat&logo=tailwind-css">
 
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5">
   </p>
   
- ##### Platforms: 
+ #### Platforms: 
  <p align="center">
   <img src="https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code">
 
