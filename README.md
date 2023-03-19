@@ -24,6 +24,10 @@
   - 💻 Fun fact: I code on my phone, but I have a goal to buy a PC in the long term.
 </details>
 
+<details>
+
+  <summary><strong>Tech stack</strong></summary>
+  
 #### Back-end:
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
@@ -51,3 +55,5 @@
   <img src="https://img.shields.io/badge/-Replit-05122A?style=flat&logo=replit">
 
 </p>
+
+  </details>
