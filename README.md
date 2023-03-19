@@ -1,3 +1,5 @@
+<hr>
+
 [![npm i abdlmutii && npx abdlmutii](https://readme-typing-svg.demolab.com?pause=1000&color=FFFFFF&center=true&width=435&lines=npm+i+abdlmutii;npx+abdlmutii)](https://github.com/abdlmutii)
 
 <p align="center">
