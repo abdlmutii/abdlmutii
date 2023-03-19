@@ -25,3 +25,34 @@
 </details>
 
 ##
+
+#### Back-end:
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
+
+  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js">
+
+  <img src="https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express">
+
+  <img src="https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react">
+ </p>
+ 
+ #### Front-End:
+  <p align="center">
+  <img src="https://img.shields.io/badge/-Tailwind.css-05122A?style=flat&logo=tailwind-css">
+
+  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3">
+
+  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5">
+  </p>
+  
+ #### Platforms: 
+ <p align="center">
+  <img src="https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code">
+
+  <img src="https://img.shields.io/badge/-Replit-05122A?style=flat&logo=replit">
+
+</p>
+
+###
+
