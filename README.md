@@ -1,5 +1,11 @@
 [![npm i abdlmutii && npx abdlmutii](https://readme-typing-svg.demolab.com?pause=1000&color=FFFFFF&center=true&width=435&lines=npm+i+abdlmutii;npx+abdlmutii)](https://github.com/abdlmutii)
 
+<p align="center">
+<a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://media.discordapp.net/attachments/726388631664852992/1087036735873101834/twwir98.png"/></a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://twitter.com/MiaxuOfficial"><img width="32px" alt="Twitter" title="Twitter" src="https://media.discordapp.net/attachments/726388631664852992/1087036735227179048/871.png"/></a>
+</p>
+
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
