@@ -24,9 +24,9 @@
   - 💻 Fun fact: I code on my phone, but I have a goal to buy a PC in the long term.
 </details>
 
-##
+## ⚒️ Tech stack
 
-#### Back-end:
+##### Back-end:
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
 
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react">
  </p>
  
- #### Front-End:
+ ##### Front-End:
   <p align="center">
   <img src="https://img.shields.io/badge/-Tailwind.css-05122A?style=flat&logo=tailwind-css">
 
@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5">
   </p>
   
- #### Platforms: 
+ ##### Platforms: 
  <p align="center">
   <img src="https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code">
 
@@ -54,5 +54,21 @@
 
 </p>
 
-###
+## 🎯 Last activity
+<!--START_SECTION:activity-->
 
+1. 🎉 Merged PR #1 in abdlmutii/my-repo
+
+2. ❌ Closed PR #2 in abdlmutii/my-repo
+
+3. 🗣 Commented on #3 in abdlmutii/my-repo
+
+4. 📦 Released v1.0.0 of abdlmutii/my-repo
+
+5. 🎉 Merged PR #4 in abdlmutii/my-repo
+
+6. 🐛 Opened issue #5 in abdlmutii/my-repo
+
+7. 🛑 Closed issue #5 in abdlmutii/my-repo
+
+<!--END_SECTION:activity-->
