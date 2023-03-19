@@ -8,4 +8,4 @@
 
 <p align="center">Hi, I'm abdlmutii, a 14-year-old full-stack developer with 3+ years of experience under my belt. <a href="example.com">Read more?</a></p>
 
-## Tech Stack
+##
