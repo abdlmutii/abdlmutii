@@ -10,18 +10,12 @@
 <details>
 
   <summary><strong>Achieved</strong></summary>
-  
-  - 🫧 I'm an self-taught developer.
-  
-  - 👾 As a lifelong learner, I am currently focused on learning about machine learning and artificial intelligence, always keeping up with the latest technologies and trends.
-  
-  - 🎯 My goal is to contribute to 100+ open source projects, continuously honing my skills while making a positive impact on the community.
-  
+
+  - 👾 I am currently focused on expanding my tech stack
+
   - 📬 If you'd like to get in touch with me for business or collaboration opportunities, feel free to email me at [abdlmutii.buz@outlook.com](mailto:abdlmutii.buz@outlook.com). For general inquiries, you can reach me at [abdlmutii@outlook.com](mailto:abdlmutii@outlook.com).
   
   - 🖥️ Check out my portfolio at https://abdlmutii.repl.co/ and take a look at my [resumè](https://abdlmutii.repl.co/resume) to learn more about my experience and skill set.
-  
-  - 💻 Fun fact: I code on my phone, but I have a goal to buy a PC in the long term.
 </details>
 
 <details>
