@@ -9,13 +9,10 @@
 <p align="center">Hi, I'm <strong>abdlmutii</strong>, a full stack developer with <strong>years</strong> of experience under my belt. <strong><a href="https://abdlmutii.repl.co/resume">Read more..</a></strong></p>
 <details>
 
-  <summary><strong>Achieved</strong></summary>
-
-  - 👾 I am currently focused on expanding my tech stack
-
+  <summary><strong>Reach me</strong></summary>
   - 📬 If you'd like to get in touch with me for business or collaboration opportunities, feel free to email me at [abdlmutii.buz@outlook.com](mailto:abdlmutii.buz@outlook.com). For general inquiries, you can reach me at [abdlmutii@outlook.com](mailto:abdlmutii@outlook.com).
   
-  - 🖥️ Check out my portfolio at https://abdlmutii.repl.co/ and take a look at my [resumè](https://abdlmutii.repl.co/resume) to learn more about my experience and skill set.
+  - 🖥️ Check out my portfolio at https://abdlmutii.repl.co/ and take a look at my [resumè](https://abdlmutii.repl.co/resume) to learn more about my experience and skill set. ( work on progress )
 </details>
 
 <details>
