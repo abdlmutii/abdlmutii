@@ -34,16 +34,18 @@
 
   <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3">
 
+  <img src="https://img.shields.io/badge/-Go-05122A?style=flat&logo=go">
+
   <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5">
       <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">
       <img src="https://img.shields.io/badge/-Next-05122A?style=flat&logo=next.js">
   </p>
   
- #### Tools: 
+ #### I use: 
  <p align="center">
-  <img src="https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code">
-
   <img src="https://img.shields.io/badge/-Replit-05122A?style=flat&logo=replit">
+
+  <img src="https://img.shields.io/badge/-Neovim-05122A?style=flat&logo=neovim">
   
    
 </p>
