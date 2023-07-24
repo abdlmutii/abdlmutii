@@ -11,7 +11,7 @@
 
   <summary><strong>Reach me</strong></summary>
   - 📬 If you'd like to get in touch with me for business or collaboration opportunities, feel free to email me at [abdlmutii.buz@outlook.com](mailto:abdlmutii.buz@outlook.com). For general inquiries, you can reach me at [abdlmutii@outlook.com](mailto:abdlmutii@outlook.com).
-  
+  <br>
   - 🖥️ Check out my portfolio at https://abdlmutii.repl.co/ and take a look at my [resumè](https://abdlmutii.repl.co/resume) to learn more about my experience and skill set. ( work on progress )
 </details>
 
