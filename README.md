@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=300&color=FFFFFF&multiline=true&repeat=false&random=false&width=435&height=108&lines=-%3E+curl+abdlmutii.repl.co;Abdlmu'tii%2C+an+back-end+developer.;Started+coding+since+11+years+of+age;With+ton+of+technologies+under+my+belt)](https://abdlmutii.repl.co)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=300&color=FFFFFF&multiline=true&repeat=true&random=false&width=435&height=108&lines=-%3E+curl+abdlmutii.repl.co;Abdlmu'tii%2C+an+back-end+developer.;Started+coding+since+11+years+of+age;With+ton+of+technologies+under+my+belt)](https://abdlmutii.repl.co)
 
 <p align="center">
 <a href="https://twitter.com/abdlmutii"><img width="20px" alt="Twitter" title="Twitter" src="https://media.discordapp.net/attachments/726388631664852992/1087036735873101834/twwir98.png"/></a>
