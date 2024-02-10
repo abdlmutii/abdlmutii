@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=300&color=FFFFFF&multiline=true&repeat=true&random=false&width=435&height=108&lines=-%3E+curl+abdlmutii.repl.co;Abdlmu'tii%2C+an+back-end+developer.;Started+coding+since+11+years+of+age;With+ton+of+technologies+under+my+belt)](https://abdlmutii.repl.co)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=300&color=FFFFFF&multiline=true&repeat=true&random=false&width=435&height=108&lines=-%3E+curl+abdlmutii.repl.co;404+Still+working+on+myself)](https://abdlmutii.repl.co)
 
 <details>
 
@@ -11,7 +11,7 @@
 
 <details>
 
-  <summary><strong>Experience</strong></summary>
+  <summary><strong>"Experience"</strong></summary>
   
 #### Coding:
 <p align="center">
