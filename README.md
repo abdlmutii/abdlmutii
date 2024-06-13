@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=300&color=FFFFFF&multiline=true&repeat=true&random=false&width=435&height=108&lines=-%3E+curl+abdlmutii.repl.co;404+Still+working+on+it)](https://abdlmutii.repl.co)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=300&color=FFFFFF&multiline=true&repeat=true&random=false&width=435&height=108&lines=-%3E+curl+abdlmutii.repl.co;Error+cuz+wrong+command)](https://abdlmutii.repl.co)
 
 <details>
 
